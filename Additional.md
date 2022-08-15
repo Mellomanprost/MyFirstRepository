@@ -1,2 +1,4 @@
+# Изменения
 # Изменения для ветки master
-# MASTER OF PUPPETS
+# MASTER OF PUPPET
+# Плюс новая строка
